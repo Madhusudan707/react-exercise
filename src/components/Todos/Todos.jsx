@@ -152,9 +152,9 @@ console.log("Data Updated")
       <br />
       <br />
       <p>
-        <span>Total Task:{todos.length}</span>
+        <span>Total : {todos.length}</span>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span>Remaining Task:{countTaskDone}</span>
+        <span>Pending : {countTaskDone}</span>
       </p>
       <table>
         <thead>
